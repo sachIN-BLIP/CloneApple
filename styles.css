@@ -1,0 +1,206 @@
+#navgation-bar{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    text-decoration: transparent;
+    opacity: 0.9;
+}
+
+.container h2{
+    font-weight:600;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+.navigation{
+    padding: 0% 20% 0% 15%;
+}
+
+.nav-item{
+    padding: 0% 7%;
+}
+
+.nav-item{
+    font-size: 14px;
+}
+
+.black{
+    background-color: black;
+}
+
+
+.more{
+    color: blue;
+}
+.Lower-nav{
+    text-align:center;
+    margin-bottom: 0%;
+    padding-bottom: 0.5%;
+    padding-top: 4rem;
+    background-color:rgba(0,0,0,0.05);
+}
+
+#ipad{
+    background-color: black;
+    padding-top: 2rem;
+}
+
+.ipad-img{
+    padding-bottom: 1rem;
+    padding-top: 1.2rem;
+    width: 75%;
+}
+
+.container{
+    text-align: center;
+    color: white;
+    line-height: 1.5rem;
+}
+
+.ipad-para{
+    color: grey;
+}
+
+.ipad-link{
+    font-size: 1.2rem;
+    padding: 0.7rem;
+}
+
+#iphone12{
+    background-color: #fbfbfd;
+    padding-top: 2rem;
+    line-height: 1.5rem;
+}
+
+.container .h2-tag{
+    color: #1d1d1f;
+}
+
+.iphone12-img{
+    padding-top:2rem;
+}
+
+.strip{
+    margin: 0;
+    width: 100%;
+    height: 0.7rem;
+    background-color: white;
+}
+
+.container .h3-tag{
+    text-align: center;
+    color: #1d1d1f;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+#iMac{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color:rgba(0,0,0,0.02) ;
+}
+
+.iMac-img{
+    padding-bottom: 3rem;
+}
+
+.pricing-info{
+    text-align: center;
+    color: grey;
+}
+
+.iphone12pro-h2{
+    font-size: 2.5rem;
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 0;
+}
+
+.iphone12pro-h3{
+    color:white;
+}
+
+.series6{
+    color:red;
+}
+
+.types-col .card{
+    text-align: center;
+    z-index: -1;
+    border: none;
+}
+
+.learnlink{
+    font-size: 1.2rem;
+    padding: 0.7rem;
+}
+
+.black-h2{
+    font-size: 2.5rem;
+    padding-top: 3rem;
+}
+
+.img{
+    width: 100%;
+}
+
+.imgip{
+    width: 70%;
+}
+
+.links{
+    padding-bottom: 2%;
+}
+
+.airtag{
+    background-color: #fbfbfd;
+}
+
+.types-col .tv{
+    background-color: rgba(0,0,0,0.05);
+}
+
+.black-h2tv{
+    font-size: 2.3rem;
+}
+
+.types-col{
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.mythicquestimg{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.footer{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.05);
+}
+
+.container-foot{
+    padding: 0% 15%;
+    padding-top: 1%;
+}
+
+hr{
+    width: 70%;
+    text-align: center;
+}
+
+.foot{
+    color:grey;
+    text-align:left;
+    font-size: small;
+}
+
+@media (max-width:1028px){
+    .Lower-nav{
+        text-align: center;
+        font-size: 0.9rem;
+        padding: 4rem 2rem 1rem;
+    }
+}
